@@ -23,7 +23,7 @@
 
 4. **Criar o ambiente virtual:**
    ```bash
-   python3.9 -m venv iazin
+   python3.9 -m venv nome_da_venv
    ```
 
 ---
