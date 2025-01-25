@@ -1,5 +1,5 @@
 
-# Guia Completo para Instalação do Streamlit com Python 3.9
+# Guia Completo para fazer deploy de um servidor Streamlit no Linux
 
 ## 1. Instalação do Python 3.9 e Criação do Ambiente Virtual
 
